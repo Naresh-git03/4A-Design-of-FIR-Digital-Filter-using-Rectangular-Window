@@ -7,7 +7,7 @@
 PC installed with SCILAB. 
 
 # PROGRAM: 
-```
+```c
 clc ; 
 close ; 
 M=input('Enter the Odd Filter Length ='); 
@@ -59,7 +59,7 @@ PC installed with SCILAB.
 
 # PROGRAM: 
 
-```
+```c
 clc ; 
 close ; 
 M=input('Enter the Odd Filter Length ='); 
@@ -108,7 +108,7 @@ Thus design of HIGH pass FIR digital filter using-Rectangular-Window waveforms w
 PC installed with SCILAB. 
 
 # PROGRAM: 
-```
+```c
 clc ; 
 close ; 
 M=input('Enter the Odd Filter Length ='); 
@@ -159,7 +159,7 @@ Thus design of BAND pass FIR digital filter using-Rectangular-Window waveforms w
 PC installed with SCILAB. 
 
 # PROGRAM: 
-```
+```c
 clc ; 
 close ; 
 M=input('Enter the Odd Filter Length ='); 
